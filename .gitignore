@@ -3,7 +3,7 @@ node_modules
 
 # Build files
 dist/
-
+v8-compile-cache-0/
 # Environment varialbes
 .env
 
@@ -11,3 +11,5 @@ dist/
 logs
 *.log
 npm-debug.log*
+
+tt.txt
